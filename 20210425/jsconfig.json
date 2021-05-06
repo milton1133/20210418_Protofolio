@@ -1,0 +1,6 @@
+{
+    "typeAcquisition": {
+        "include": ["jquery"]
+    }
+}
+//json的作用範圍是整個folder

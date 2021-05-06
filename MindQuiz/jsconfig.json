@@ -1,0 +1,6 @@
+{
+    "typeAcquisition": {
+        "include": ["jquery"]
+    }
+}
+//作用範圍是整個folder
